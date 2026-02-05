@@ -6,7 +6,7 @@ It focuses on identifying churn rate, customer behavior, and main churn reasons.
 ## Dashboard Screenshots
 
 ### Overview
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](images/1.jpeg)
 
 
 ## Highlights
